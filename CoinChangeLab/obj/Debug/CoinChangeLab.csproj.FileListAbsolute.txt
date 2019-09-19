@@ -1,0 +1,14 @@
+C:\Users\Marek\source\repos\CoinChangeLab\CoinChangeLab\bin\Debug\CoinChangeLab.exe.config
+C:\Users\Marek\source\repos\CoinChangeLab\CoinChangeLab\bin\Debug\CoinChangeLab.exe
+C:\Users\Marek\source\repos\CoinChangeLab\CoinChangeLab\bin\Debug\CoinChangeLab.pdb
+C:\Users\Marek\source\repos\CoinChangeLab\CoinChangeLab\obj\Debug\CoinChangeLab.csprojAssemblyReference.cache
+C:\Users\Marek\source\repos\CoinChangeLab\CoinChangeLab\obj\Debug\CoinChangeLab.csproj.CoreCompileInputs.cache
+C:\Users\Marek\source\repos\CoinChangeLab\CoinChangeLab\obj\Debug\CoinChangeLab.exe
+C:\Users\Marek\source\repos\CoinChangeLab\CoinChangeLab\obj\Debug\CoinChangeLab.pdb
+D:\repos\CoinChangeLab\CoinChangeLab\bin\Debug\CoinChangeLab.exe.config
+D:\repos\CoinChangeLab\CoinChangeLab\bin\Debug\CoinChangeLab.exe
+D:\repos\CoinChangeLab\CoinChangeLab\bin\Debug\CoinChangeLab.pdb
+D:\repos\CoinChangeLab\CoinChangeLab\obj\Debug\CoinChangeLab.csprojAssemblyReference.cache
+D:\repos\CoinChangeLab\CoinChangeLab\obj\Debug\CoinChangeLab.csproj.CoreCompileInputs.cache
+D:\repos\CoinChangeLab\CoinChangeLab\obj\Debug\CoinChangeLab.exe
+D:\repos\CoinChangeLab\CoinChangeLab\obj\Debug\CoinChangeLab.pdb
